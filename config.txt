@@ -1,11 +1,11 @@
 {
   "patch_cert": 0,
-  "device":   "begonia",
+  "device":   "CP03",
   "kernel":   "4.14.186",
   "comment":  "run 'getprop ro.boot.chipid' in termux to get chip_id (no root needed)",
-  "chip_id":  "",
-  "imei_1":   "",
-  "imei_2":   "",
-  "wifi_mac": "",
-  "bt_mac":   ""
+  "chip_id":  "MT6769V/CU",
+  "imei_1":   "867797052804393",
+  "imei_2":   "867797051606419",
+  "wifi_mac": "00:ca:85:eb:e7:95",
+  "bt_mac":   "00:00:46:00:00:01"
 }
